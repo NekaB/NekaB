@@ -1,4 +1,4 @@
-<img align="right" width="440" height="247" src="https://pixabay.com/get/ga2198888b1acb1f574231947ce76c7306693d3c4156d5e770ffed747cc91b71523b1ec550ac77e8d99c9bef1f0ff4e1f33125c564ee69ba0731988b7a933fc44717c379feb8c776ce96b58575be95f06_640.png">
+<img align="right" width="440" height="647" src="https://images.unsplash.com/photo-1590664863685-a99ef05e9f61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80">
 
 ### Hi there 👋
 
@@ -7,8 +7,8 @@
 
 Welcome to my Github:
 
-- 💖 My Background is in Fashion E-commerce Writings ✍🏾
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/7414-kokomishy.gif"> I’m currently learning Blockchain 
+- 💖 My Background is Fashion E-commerce
+- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/6636-rose.gif"> I’m currently learning Blockchain 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
