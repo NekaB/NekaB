@@ -1,4 +1,4 @@
-<img align="right" width="640" height="427" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif">
+<img align="right" width="640" height="427" src="https://cdn.pixabay.com/photo/2020/05/21/11/13/shopping-5200288_960_720.jpg">
 
 ### Welcome to my Github
 
