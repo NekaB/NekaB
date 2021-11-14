@@ -6,14 +6,14 @@
 
 <!--**NekaB/NekaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">About me:
+### About me:
 
-- I'm a Technical Writer with a background in Fashion
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I'm a Technical Writer with a background in Fashion E-commerce
 
-- I’m currently learning Blockchain
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I’m currently learning Blockchain
 
-- I’m looking to collaborate on Open Source Projects
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I’m looking to collaborate on Open Source Projects
 
-- Ask me about DevOps
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">Ask me about DevOps
 
-- How to reach me: neka.p.brown@gmail.com 
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">How to reach me: neka.p.brown@gmail.com 
