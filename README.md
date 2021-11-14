@@ -1,4 +1,4 @@
-<img align="center" width="840" height="427" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nyfw-fw20sketches-1580848630.jpg?crop=1.00xw:1.00xh;0,0&resize=980:*">
+<img align="justify" width="940" height="427" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nyfw-fw20sketches-1580848630.jpg?crop=1.00xw:1.00xh;0,0&resize=980:*">
 <!--<img align="right" width="540" height="427" src="https://us.123rf.com/450wm/kamenuka/kamenuka1903/kamenuka190300001/120630461-set-of-watercolor-dresses-on-hangers-fashion-illustration.jpg">-->
 
 ### Welcome to my Github
