@@ -7,14 +7,12 @@
 
 ### <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">About me:
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I'm a Technical Writer with a background in Fashion
+- I'm a Technical Writer with a background in Fashion
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> I’m currently learning Blockchain
+- I’m currently learning Blockchain
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> I’m looking to collaborate on Open Source Projects
+- I’m looking to collaborate on Open Source Projects
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> I’m looking for help with
+- Ask me about DevOps
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> Ask me about
-
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> How to reach me 
+- How to reach me: neka.p.brown@gmail.com 
