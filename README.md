@@ -2,7 +2,7 @@
 <!--[ImgLink](https://www.elle.com/runway/g30767047/nyfw-fall-winter-2020-collections-inspiration/)-->
 <img align="right" width="640" height="427" src="https://cdn.pixabay.com/photo/2020/05/21/11/13/shopping-5200288_960_720.jpg">
 
-## Welcome to my Github
+## Welcome to my Github!
 
 <!--**NekaB/NekaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
