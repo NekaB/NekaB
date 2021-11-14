@@ -1,4 +1,4 @@
-![ImageTechWriter](https://pixabay.com/get/ga2198888b1acb1f574231947ce76c7306693d3c4156d5e770ffed747cc91b71523b1ec550ac77e8d99c9bef1f0ff4e1f33125c564ee69ba0731988b7a933fc44717c379feb8c776ce96b58575be95f06_640.png align="right")
+![ImageTechWriter](https://pixabay.com/get/ga2198888b1acb1f574231947ce76c7306693d3c4156d5e770ffed747cc91b71523b1ec550ac77e8d99c9bef1f0ff4e1f33125c564ee69ba0731988b7a933fc44717c379feb8c776ce96b58575be95f06_640.png) align="right"
 ### Hi there 👋
 
 
