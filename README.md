@@ -12,8 +12,8 @@
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I’m currently learning Blockchain
 
- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I’m looking to collaborate on Open Source Projects
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I’m want to collaborate on Open Source Projects
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">Ask me about DevOps
 
- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">How to reach me: neka.p.brown@gmail.com 
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">Contact: neka.p.brown@gmail.com 
