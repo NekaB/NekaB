@@ -11,4 +11,4 @@
 - <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking to collaborate on Open Source Projects
 - <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking for help with ...
 - <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> Ask me about 
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> How to reach me: 
+- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> How to reach me 
