@@ -5,16 +5,16 @@
 
 <!--**NekaB/NekaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### About me:
+### <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">About me:
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif">My Background is Fashion E-commerce
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I'm a Technical Writer with a background in Fashion
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m currently learning Blockchain
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> I’m currently learning Blockchain
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking to collaborate on Open Source Projects
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> I’m looking to collaborate on Open Source Projects
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking for help with
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> I’m looking for help with
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> Ask me about
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> Ask me about
 
--<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> How to reach me 
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif"> How to reach me 
