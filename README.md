@@ -8,7 +8,7 @@
 
 ### About me:
 
- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I'm a Technical Writer with a background in Fashion E-commerce
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I'm a Technical Writer with a background in E-commerce
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">I’m currently learning Blockchain
 
