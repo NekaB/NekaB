@@ -18,4 +18,4 @@
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**Ask me about DevOps**
 
- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">neka.p.brown@gmail.com 
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**neka.p.brown@gmail.com** 
