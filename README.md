@@ -1,4 +1,4 @@
-<img align="right" width="640" height="427" src="https://cdn.pixabay.com/photo/2020/05/21/11/13/shopping-5200288_960_720.jpg">
+<img align="center" width="840" height="427" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nyfw-fw20sketches-1580848630.jpg?crop=1.00xw:1.00xh;0,0&resize=980:*">
 <!--<img align="right" width="540" height="427" src="https://us.123rf.com/450wm/kamenuka/kamenuka1903/kamenuka190300001/120630461-set-of-watercolor-dresses-on-hangers-fashion-illustration.jpg">-->
 
 ### Welcome to my Github
@@ -6,9 +6,9 @@
 <!--**NekaB/NekaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> My Background is Fashion E-commerce
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m currently learning Blockchain 
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking to collaborate on Open Source Projects
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking for help with ...
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> Ask me about 
-- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> How to reach me 
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> My Background is Fashion E-commerce
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m currently learning Blockchain 
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking to collaborate on Open Source Projects
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m looking for help with ...
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> Ask me about 
+-<img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> How to reach me 
