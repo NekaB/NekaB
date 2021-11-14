@@ -7,7 +7,7 @@
 
 
 - 💖 My Background is Fashion E-commerce
-- <img align="left" width="10" height="10" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m currently learning Blockchain 
+- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/9037-arrow-pink.gif"> I’m currently learning Blockchain 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
