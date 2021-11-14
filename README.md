@@ -8,7 +8,7 @@
 Welcome to my Github:
 
 - 💖 My Background is in Fashion E-commerce Writings ✍🏾
-- <img align="left" width="50" height="50" src="https://emoji.gg/assets/emoji/7414-kokomishy.gif"> I’m currently learning Blockchain 
+- <img align="left" width="15" height="15" src="https://emoji.gg/assets/emoji/7414-kokomishy.gif"> I’m currently learning Blockchain 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
