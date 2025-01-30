@@ -7,12 +7,12 @@
 
 ### About me:
 
- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**I am a Technical Writer**
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**I am a Conversation Designer**
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**My Background is in Fashion/Retail Ecommerce**
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**Will work on Open Source Projects**
 
- <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**Ask me about DevOps**
+ <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**Ask me about Copywriting**
 
  <img align="left" width="25" height="25" src="https://emoji.gg/assets/emoji/1078-dripheart.gif">**neka.p.brown@gmail.com** 
